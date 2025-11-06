@@ -2,7 +2,7 @@
 
 ### A passionate Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3mr-mahmoud&label=Profile views&color=0e75b6&style=flat" alt="3mr-mahmoud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3mr-mahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="3mr-mahmoud" /> </p>
 
 - 🔭 I'm currently working on **SaaS ERP system (modeer) deployed to GCP it has features like accounting, HR attendnace, Inventory management, Customers management**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amrmgoma6@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1yMgTOogyRDWGk05-PfjrzIvjhE9-jBp_/view?usp=sharing](https://drive.google.com/file/d/1yMgTOogyRDWGk05-PfjrzIvjhE9-jBp_/view?usp=sharing)**
+- 📄 Know about my experiences **[See my Resume](https://drive.google.com/file/d/1yMgTOogyRDWGk05-PfjrzIvjhE9-jBp_/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
