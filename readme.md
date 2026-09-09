@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3mr-mahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="3mr-mahmoud" /> </p>
 
-- 🔭 I'm currently working on **SaaS ERP system (modeer) deployed to GCP it has features like accounting, HR attendnace, Inventory management, Customers management**
+* 🔭 I'm currently working as a **Software Engineer at Shopbox**, contributing to the development and maintenance of scalable POS and SaaS solutions, including integrations, APIs, background jobs, and multi-tenant systems.
 
-- 🌱 I'm currently learning **@ Cairo University Faculty of Computer Engineering topics like Machine learning, Natural Language processing, Database internals & Indexing algorithms, Microprocessors, VLSI and more ..**
+* 🎓 I graduated with an **Excellent grade** from the **Faculty of Computer Engineering at Cairo University**.
+
+* 🌱 I'm currently learning and exploring advanced topics such as **Machine Learning, Natural Language Processing, Database Internals & Indexing Algorithms, Microprocessors, VLSI, and more.**
 
 - 📫 How to reach me **amrmgoma6@gmail.com**
 
